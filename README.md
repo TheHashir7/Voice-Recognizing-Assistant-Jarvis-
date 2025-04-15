@@ -1,0 +1,1 @@
+A simple Python-based voice assistant that responds to voice commands using speech recognition and text-to-speech capabilities. This assistant can greet you, search Wikipedia, tell the current time, play music, open websites (YouTube, Google, Facebook, Twitter/X, LinkedIn, ChatGPT), and even launch Visual Studio Code.
